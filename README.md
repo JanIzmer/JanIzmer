@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I’m Jan Izmer<br>I'm a junior Python/Django developer currently learning and building real-world projects. I'm passionate about backend development and eager to grow my skills through hands-on experience.<br><br>🔭 I’m currently working on Django-based web applications<br><br>🌱 I enjoy learning about exciting and useful technologies<br><br>💬 Ask me about Python, Django, and SQL<br><br>📫 How to reach me: jan.izmer@gmail.com<br><br>⚡ Fun fact: I enjoy automating boring tasks with Python scripts
+Hi, I’m Нan Izmer
+I'm a junior Data Analyst with strong Python skills, passionate about turning raw data into actionable insights. I enjoy data wrangling, visualization, reporting, and building predictive models.
+🔭 I’m currently working on Python-based data analysis projects and Power BI dashboards
+
+🌱 I enjoy learning new analytical techniques, machine learning, and business intelligence tools
+
+💬 Ask me about Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI
+
+📫 How to reach me: jan.izmer@gmail.com
+
+⚡ Fun fact: I love automating repetitive data tasks with Python scripts
 
 
 # 💻 Tech Stack:
